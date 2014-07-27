@@ -1,0 +1,5 @@
+suites:
+  devato_suite:
+    namespace: Devato
+    src_path: src
+    spec_prefix: spec
